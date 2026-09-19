@@ -1,1 +1,5 @@
-
+{
+  "name": "manu-test-plugin",
+  "version": "1.0.0",
+  "description": "Minimal test plugin for verifying GitHub import into ChatGPT."
+}
